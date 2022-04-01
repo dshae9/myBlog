@@ -1,0 +1,9 @@
+h1, h2, h3, em, b{
+    font-family: 'Staatliches', cursive;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+ h1{
+     font-size: 72px;
+ }
